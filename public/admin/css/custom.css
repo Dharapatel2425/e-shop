@@ -1,0 +1,42 @@
+.cate-image{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+.form-select{
+    display: block;
+    width: 100%;
+    padding: .375rem 2.25rem .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: right .75rem center;
+    background-size: 16px 12px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.order-details label{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.order-details div{
+    font-size: 14px;
+    padding: 5px !important;
+}
+.bg-primary{
+    background-color: #9c27b0 !important;
+
+}
+.bg-blue{
+    background-color:#1295af !important;
+}
+.bg-yellow{
+    background-color: #cfbd23 !important;
+}
